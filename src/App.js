@@ -1,5 +1,4 @@
-import logo from './logo.svg';
-import './App.css';
+
 import List from './List';
 import data from './data';
 import { useState } from 'react';
