@@ -16,7 +16,6 @@ const clearBirthday =()=>{
       <List people={people}/>
       <button onClick={clearBirthday}>clear all</button>
     </section>
-
   </main>
   );
 }
